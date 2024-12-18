@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "nuget package test",
+      "Alias": "nuget-package-test",
+      "Id": "7459670c-b1e0-4985-a470-578ac6d23530",
+      "Workspaces": [
+        {
+          "Id": "e0782e25-08f7-4cfd-a103-ca4b745cf776",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://nuget-package-test.useast01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
