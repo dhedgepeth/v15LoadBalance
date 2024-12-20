@@ -1,3 +1,3 @@
 [project]
-base = "src/UmbracoProject"
-csproj = "UmbracoProject.csproj"
+base = "NugetPackageTest.Web"
+csproj = "NugetPackageTest.Web.csproj"
